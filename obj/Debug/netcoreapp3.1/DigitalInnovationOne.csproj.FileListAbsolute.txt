@@ -1,0 +1,12 @@
+/Users/andreludwig/git/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.deps.json
+/Users/andreludwig/git/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.json
+/Users/andreludwig/git/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.dev.json
+/Users/andreludwig/git/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/Users/andreludwig/git/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
+/Users/andreludwig/git/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.csprojAssemblyReference.cache
+/Users/andreludwig/git/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfoInputs.cache
+/Users/andreludwig/git/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfo.cs
+/Users/andreludwig/git/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.csproj.CoreCompileInputs.cache
+/Users/andreludwig/git/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/Users/andreludwig/git/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
+/Users/andreludwig/git/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.genruntimeconfig.cache
