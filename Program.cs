@@ -32,7 +32,11 @@ namespace DigitalInnovationOne
 
                         break;
                     case "2":
-                        //ToDo: listar alunos
+                        foreach(var a in alunos){
+                            if(!string.IsNullOrEmpty(a.Nome)){
+                                Console.WriteLine($"Aluno: {a.Nome} - Nota {a.Nota}");
+                            }
+                        }
                         break;
                     case "3":
                         //ToDo: calcular media geral
