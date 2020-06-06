@@ -37,9 +37,22 @@ namespace DigitalInnovationOne
                                 Console.WriteLine($"Aluno: {a.Nome} - Nota {a.Nota}");
                             }
                         }
+                        
                         break;
                     case "3":
-                        //ToDo: calcular media geral
+                        decimal notaTotal = 0;
+                        var nrAlunos = 0;
+
+                        for(int i = 0; i < alunos.Length; i++){
+                            if(!string.IsNullOrEmpty(alunos[i].Nome)){
+                                notaTotal += alunos[i].Nota;
+                                nrAlunos++;
+                            }
+                        }
+
+                        var mediaGeral = notaTotal / nrAlunos;
+                        Console.WriteLine($"Média geral: {mediaGeral}");
+
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
